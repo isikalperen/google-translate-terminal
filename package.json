@@ -1,0 +1,23 @@
+{
+  "name": "google-translate-terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isikalperen/google-translate-terminal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isikalperen/google-translate-terminal/issues"
+  },
+  "homepage": "https://github.com/isikalperen/google-translate-terminal#readme",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "inquirer": "^6.0.0"
+  }
+}
